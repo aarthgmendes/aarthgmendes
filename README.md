@@ -1,11 +1,12 @@
 
-### HEY DEV  <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif"  height="30px" width="30px">
+### <strong>HEY DEV</strong>  <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif"  height="30px" width="30px">
 
-- 📚 I'm currently studying Computer Science
-- 🌱 I’m currently learning HTML, CSS, JavaScript e ReactJS
-- 💜 I’m passionate about Front-end
-- 💻 I seek to learn more and more about front-end and back-end
-- 🇧🇷 Born in Santa Catarina, Brazil
+- 📚 <i>I'm currently studying Computer Science</i>
+- 🌱 <i>I’m currently learning HTML, CSS, JavaScript e ReactJS</i>
+- 💜 <i>I’m passionate about Front-end</i>
+- 💻 <i>I seek to learn more and more about front-end </i>
+- ☕ <i>Addicted to coffe</i>
+- 🇧🇷 <i>Born in Santa Catarina, Brazil</i>
 
 
 <h2 align="center">Stats</h2>
@@ -19,9 +20,11 @@
 
 <h2 align="center">Tech's</h2>
 <div display: "inline-block" align="center">
-<img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" />
-<img align="center" alt="bash" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
+<img align="center" alt="HTML" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
+<img align="center" alt="CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" />
+<img align="center" alt="js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" />
+<img align="center" alt="react" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
+<img align="center" alt="git" height="35" width="55" src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg">
 <img align="center" alt="mysql" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
 </div>
 
