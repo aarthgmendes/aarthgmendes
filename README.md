@@ -2,7 +2,7 @@
 ### <strong>HEY DEV</strong>  <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif"  height="30px" width="30px">
 
 - 📚 <i>I'm currently studying Computer Science</i>
-- 🌱 <i>I’m currently learning HTML, CSS, JavaScript e ReactJS</i>
+- 🌱 <i>I’m currently learning HTML, CSS, JavaScript and ReactJS</i>
 - 💜 <i>I’m passionate about Front-end</i>
 - 💻 <i>I seek to learn more and more about front-end </i>
 - ☕ <i>Addicted to coffe</i>
