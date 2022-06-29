@@ -4,7 +4,7 @@
 - 📚 <i>I'm currently studying Computer Science</i>
 - 🌱 <i>I’m currently learning HTML, CSS, JavaScript and ReactJS</i>
 - 💜 <i>I’m passionate about Front-end</i>
-- 💻 <i>I seek to learn more and more about front-end </i>
+- 💻 <i>I seek to learn more and more about ReactJS and its variants</i>
 - ☕ <i>Addicted to coffe</i>
 - 🇧🇷 <i>Born in Santa Catarina, Brazil</i>
 
