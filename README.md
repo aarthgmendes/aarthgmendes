@@ -6,7 +6,7 @@
 - 💜 <i>I’m passionate about Front-end</i>
 - 💻 <i>I seek to learn more and more about ReactJS and its variants</i>
 - ☕ <i>Addicted to coffe</i>
-- 🇧🇷 <i>Born in Santa Catarina, Brazil</i>
+- 🇧🇷  <i>Born in Santa Catarina, Brazil</i>
 
 
 <h2 align="center">Stats</h2>
