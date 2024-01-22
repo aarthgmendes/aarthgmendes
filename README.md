@@ -3,7 +3,7 @@
 
 - 📚 <i>I'm currently studying Computer Science</i>
 - 🌱 <i>I’m currently learning Java, Springboot and looking to learn other backend technologies. And a little frontend too, of course!</i>
-- 💜 <i>I’m passionate technology!</i>
+- 💜 <i>I’m passionate abaout technology!</i>
 - 💻 <i>I seek to learn more and more about Java and its variants</i>
 - ☕ <i>Addicted to coffe</i>
 - 🇧🇷  <i>Born in Santa Catarina, Brazil</i>
